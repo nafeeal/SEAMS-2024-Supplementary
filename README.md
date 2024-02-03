@@ -1,4 +1,4 @@
-# SEAMS-2024-Supplemental materials (anonymously uploaded)
+# SEAMS-2024-Supplemental materials
 
 ## Includes:
 
